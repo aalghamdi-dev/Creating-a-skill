@@ -1,4 +1,4 @@
-# Example: Chaining Two Skills into One Workflow
+# Chaining Two Skills into One Workflow
 
 ## The idea
 
